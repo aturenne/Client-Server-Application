@@ -3,7 +3,7 @@
 - Employs multi-threading to enable concurrent handling of client connections, ensuring optimal system performance
 - Establishes socket-based communication between the client and server to send user requests and receive responses, while implementing error handling to enhance user experience
 
-#Project Title: Train Ticket Price Calculator
+# Project Title: Train Ticket Price Calculator
 #Description: Developed a Java-based Train Ticket Price Calculator as part of a software engineering project. The application consists of a client-server system that allows users to calculate the cost of train tickets based on various parameters such as the type of locomotive, seating class, and the number of adults and children.
 #Key Features:
 #Graphical User Interface (GUI)
